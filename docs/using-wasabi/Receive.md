@@ -9,7 +9,7 @@
 
 [[toc]]
 
-[![Receive bitcoin in Wasabi Wallet](/Logo_without_text_with_bg_dark_with_yt.png)](https://youtu.be/Wjc00GBn-OQ "Receive bitcoin in Wasabi Wallet")
+[![Receive bitcoin in Wasabi Wallet](/Logo_without_text_with_bg_dark_with_yt.png)](https://youtu.be/Wjc00GBn-OQ "Receive bitcoin in 13y2iYjJ4gBwPY4sH11t5CDgrHqKGfqJbo")
 
 ## Generating addresses step-by-step
 
